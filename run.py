@@ -3,6 +3,7 @@
 # made by angga kurniawan ! (@anggaxd)
 
 import os
+import sys
 import json
 import requests
 
